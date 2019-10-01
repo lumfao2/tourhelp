@@ -1,19 +1,19 @@
 [
     {
       "title"    : "post",
-      "category" : "cat,
+      "category" : "cat",
       "tags"     : "html",
       "url"      : "utl",
       "date"     : "2019-12-12"
     } ,    {
       "title"    : "post",
-      "category" : "cat,
+      "category" : "cat",
       "tags"     : "html",
       "url"      : "utl",
       "date"     : "2019-12-12"
     } ,    {
       "title"    : "post",
-      "category" : "cat,
+      "category" : "cat",
       "tags"     : "html",
       "url"      : "utl",
       "date"     : "2019-12-12"
