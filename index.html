@@ -49,10 +49,12 @@
         <h2>TourHunter Help Center</h2>
         <p>Find answers and advice on how to get the most out of TourHunter</p>
         <div class="form-group mx-auto">
-            <form action="search.html" method="get">
-              <label for="search-box">Search</label>
-              <input type="text" id="search-box" name="query">
-              <input type="submit" value="search">
+            <!-- HTML elements for search -->
+                <input type="text" id="search-input" placeholder="Search blog posts..">
+                <ul id="results-container"></ul>
+
+            <!-- script pointing to jekyll-search.js -->
+                <script src="{{ site.baseurl }}/simple-jekyll-search.min.js"></script>
             </form>
         </div>
     </div>
