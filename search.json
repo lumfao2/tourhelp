@@ -1,9 +1,9 @@
 [
     {
-      "title"    : "post",
-      "category" : "cat",
+      "title"    : "article",
+      "category" : "category",
       "tags"     : "html",
-      "url"      : "utl",
+      "url"      : "article.html",
       "date"     : "2019-12-12"
     } ,    {
       "title"    : "post",
