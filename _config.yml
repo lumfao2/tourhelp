@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+languages: ["sv", "en", "de", "fr"]
+exclude_from_localizations: ["javascript", "images", "css"]
