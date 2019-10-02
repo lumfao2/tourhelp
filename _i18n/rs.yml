@@ -1,0 +1,3 @@
+{% t key %}
+or
+{% translate key %}
